@@ -1,1 +1,2 @@
-Now commit from harry folder
+Editing in code with harry
+Added second line and pushed to master
