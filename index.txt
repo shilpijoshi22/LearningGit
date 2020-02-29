@@ -1,1 +1,2 @@
 Edited in thirdBranch changes
+Added second line and pushed to master
